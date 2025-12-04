@@ -4,7 +4,7 @@
 
 ### ⚡ Embedded Systems Architect | Hardware · Firmware
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresse.bassinga@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brisel.bassinga@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresse-brisel-bassinga-64877b1a3)
 
 </div>
@@ -124,11 +124,12 @@ Engineer_t andresse = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andresse2020&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andresse2020)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andresse2020&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andresse2020&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andresse2020&layout=compact&theme=dark)
+
 
 </div>
 
@@ -162,7 +163,7 @@ I value **clarity over complexity**, and build systems that are:
 
 **Looking to collaborate on embedded systems projects or discuss hardware/firmware design?**
 
-📧 **andresse.bassinga@gmail.com**  
+📧 **brisel.bassinga@gmail.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/andresse-brisel-bassinga-64877b1a3
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Andresse2020&color=58a6ff&style=for-the-badge)
