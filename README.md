@@ -82,6 +82,11 @@ Designed from scratch:
 ![Modbus](https://img.shields.io/badge/Modbus-005F87?style=for-the-badge)
 ![LIN](https://img.shields.io/badge/LIN-B22222?style=for-the-badge)
 ![Ethernet](https://img.shields.io/badge/Ethernet-4D94FF?style=for-the-badge&logo=ethernet&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-00BFA5?style=for-the-badge&logo=semtech&logoColor=white)
+![XBee](https://img.shields.io/badge/XBee-0033A0?style=for-the-badge&logo=digikey&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![BLE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -89,6 +94,8 @@ Designed from scratch:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-SCADA-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
 ---
 
