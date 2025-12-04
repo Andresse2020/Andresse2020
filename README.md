@@ -130,9 +130,10 @@ Engineer_t andresse = {
 ## 📊 GitHub Stats
 
 <div align="center">
+    
+[![My Stats](https://github-readme-stats.vercel.app/api?username=Andresse2020&show_icons=true&theme=dark)](https://github.com/Andresse2020)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andresse2020&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
 
 </div>
 
