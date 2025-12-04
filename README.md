@@ -45,8 +45,8 @@ Designed from scratch:
 
 ### **🧩 Embedded Firmware Architecture (C/C++ · CMake)**
 6-layer modular environment:
-- Drivers → Interfaces → Services → Control → App → Tests
-- BSP abstraction
+- BSP → Drivers → Interfaces → Services → Control → App
+- Tests (Unit tests)
 - Clean APIs, reusable modules
 - Supports bare-metal and RTOS
 
