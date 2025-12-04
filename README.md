@@ -18,7 +18,7 @@ I design and build **reliable embedded systems from the ground up** — from sch
 My work focuses on **clear structure, robust design, and engineering discipline**, with an emphasis on:
 
 - 🏗️ **System architecture** (Hardware structure, layered firmware, BSP, clean APIs)
-- ⚡ **High-power motor control** (ESCs, Invertors, real-time loops, ...)
+- ⚡ **High-power systems** (ESCs, Invertors, Convertors, real-time loops, ...)
 - 💻 **Embedded firmware** (C/C++, bare-metal & RTOS, STM32, PIC)
 - 🔌 **Electronics design** (analog, digital, power, protections, EMC)
 - 🔍 **Integration, bring-up, debugging, and validation**
