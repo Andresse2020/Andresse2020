@@ -106,14 +106,14 @@ Engineer_t andresse = {
         "Real-time embedded systems",
         "Power electronics & motor control",
         "System architecture & modular firmware",
-        "UAV propulsion systems",
         "Hardware-software integration",
-        "Clean code & maintainability"
+        "Clean code & maintainability",
+        " "
     },
     .current_work = "Designing high-power ESC & quadrotor propulsion board",
     .future_goals = {
-        "SBC/SoC board design",
-        "FPGA/RTL fundamentals"
+        "Fly controller design",
+        "SBC design based on a SOM"
     }
 };
 ```
